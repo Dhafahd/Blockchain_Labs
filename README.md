@@ -1,4 +1,4 @@
-# Mini Social Media Platform
+# Lab6: Mini Social Media Platform 
 
 This repository contains the code for a decentralized social media platform built using Solidity smart contracts and Ethereum blockchain technology. The platform allows users to create, edit, delete, like, and dislike posts on the blockchain, providing an immutable and transparent record of interactions.
 
